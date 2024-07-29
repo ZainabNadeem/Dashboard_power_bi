@@ -81,4 +81,4 @@ This project provides a basic example of web scraping using Python. You can exte
 
 ---
 
-Feel free to use this explanation to document your project on GitHub, in a README file, or when presenting your work to others.
+
